@@ -1,5 +1,7 @@
 # Controle de Estoque
 
+> **Status:** Versão final, pronta para uso.
+
 Sistema para controle de estoque e movimentação de inversores. 
 O projeto usa React no front-end e roda dentro do Google Apps Script (GAS), usando o Google Sheets como banco de dados.
 
