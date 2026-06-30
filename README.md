@@ -1,4 +1,4 @@
-# Controle de Estoque
+# Controle de Estoque (NÃO IMPLEMENTADO)
 
 ![Status](https://img.shields.io/badge/Status-Vers%C3%A3o%20Final-success)
 
