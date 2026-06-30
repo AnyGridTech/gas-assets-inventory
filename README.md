@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Vers%C3%A3o%20Final-success)
 
-Sistema para controle de estoque e movimentação de inversores. 
+Sistema para controle de estoque e movimentação de laptops. 
 O projeto usa React no front-end e roda dentro do Google Apps Script (GAS), usando o Google Sheets como banco de dados.
 
 ## Como rodar localmente
